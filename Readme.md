@@ -24,4 +24,4 @@ Olivier Le Doeuff, [olivier.ldff@gmail.com](olivier.ldff@gmail.com)
 
 ## License
 
-**QaterialHotReload** is available under the MIT license. See the [License](./License) file for more info.
+**QaterialHelloWorld** is available under the MIT license. See the [License](./License) file for more info.
